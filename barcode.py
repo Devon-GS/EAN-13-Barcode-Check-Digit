@@ -1,7 +1,10 @@
-# x = "2000000458021"
-# x = "2000000025476"
-# x = "2000000025278"
+# ====== Barcodes For Testing ==========
+# Barcode_1 = "2000000458021"
+# Barcode_2 = "2000000025476"
+# Barcode_3 = "2000000025278"
+# =====================================
 
+# While loop to check for error and valid barcode
 a = 'yes'
 
 while a == 'y' or a == 'yes':
